@@ -1,1 +1,6 @@
-#freeport metrics interview question internship 2022
+In order to run first install:
+pip install musicbrainzngs
+Then simply:
+python3 app.py
+
+
